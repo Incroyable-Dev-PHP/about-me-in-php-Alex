@@ -1,0 +1,50 @@
+
+
+body header h1 {
+    margin: unset;
+}
+
+#slogan {
+    font-size: large;
+}
+
+nav {
+    text-align: center;
+    margin-top: 15px;
+}
+
+nav button {
+    border-radius: 20px;
+    background-color: #3498DB;   
+}
+
+nav a {
+    text-decoration: none;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+nav ul {
+    padding: 0;
+}
+
+nav ul li {
+    list-style: none;
+    display: inline;
+}
+
+section a {
+    text-decoration: none;
+}
+
+table {
+    border-style: ridge;
+}
+
+h1 {
+    color: #3498DB;
+}
+
+h2 {
+    color: #3498DB;
+}
